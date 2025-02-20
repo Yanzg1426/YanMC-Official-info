@@ -54,8 +54,8 @@ footer {
 }
 .gif-bulat {
     border-radius: 50%; /* Membuat gambar menjadi bulat */
-    width: 100px; /* Atur lebar sesuai keinginan Anda */
-    height: 100px; /* Atur tinggi sesuai keinginan Anda */
+    width: 250px; /* Atur lebar sesuai keinginan Anda */
+    height: 250px; /* Atur tinggi sesuai keinginan Anda */
     object-fit: cover; /* Memastikan gambar memenuhi area bulat */
     display: block;
     margin: 20px auto; /* Membuat gambar berada di tengah */
