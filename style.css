@@ -43,7 +43,7 @@ h1, h2 {
 img {
     display: block;
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 footer {
@@ -52,3 +52,12 @@ footer {
     padding: 1rem 0;
     text-align: center;
 }
+.gif-bulat {
+    border-radius: 50%; /* Membuat gambar menjadi bulat */
+    width: 100px; /* Atur lebar sesuai keinginan Anda */
+    height: 100px; /* Atur tinggi sesuai keinginan Anda */
+    object-fit: cover; /* Memastikan gambar memenuhi area bulat */
+    display: block;
+    margin: 20px auto; /* Membuat gambar berada di tengah */
+}
+
